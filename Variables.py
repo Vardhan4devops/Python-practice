@@ -7,6 +7,7 @@ print(var1)
 print(var2)
 print(var3)
 
+#multi assignment
 a=b=c=100
 print(a)
 print(b)
