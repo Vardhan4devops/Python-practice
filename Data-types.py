@@ -28,6 +28,17 @@ print("variable list1 is a:", type(list1))
 print("variable touple1 is a:", type(touple1))
 print("variable dictionary1 is a:", type(dictionary1))
 
+# Boolean
+x = True
+y=False
+
+print(x)
+print(y)
+
+print("variable x is : ", type(x))
+print("variable y is : ", type(y))
+
+
 
 
 
