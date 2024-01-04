@@ -22,3 +22,12 @@ print (touple1)
 dictionary1 = {"Name":"Vardhan", "Weight":75, "Exercises":["Boxing", "Dancing", "Jogging"]}
 
 print(dictionary1)
+
+# datatype type
+print("variable list1 is a:", list1)
+print("variable touple1 is a:", touple1)
+print("variable dictionary1 is a:", dictionary1)
+
+
+
+
