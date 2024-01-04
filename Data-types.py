@@ -24,9 +24,9 @@ dictionary1 = {"Name":"Vardhan", "Weight":75, "Exercises":["Boxing", "Dancing", 
 print(dictionary1)
 
 # datatype type
-print("variable list1 is a:", list1)
-print("variable touple1 is a:", touple1)
-print("variable dictionary1 is a:", dictionary1)
+print("variable list1 is a:", type(list1))
+print("variable touple1 is a:", type(touple1))
+print("variable dictionary1 is a:", type(dictionary1))
 
 
 
