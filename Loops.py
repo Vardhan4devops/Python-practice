@@ -13,3 +13,12 @@ while x<=10:
     x=x+1
 
 print("Rest of the code")
+
+# Sleep time
+import time
+x=2;
+while True:
+    print("power of 2: ",x)
+    x=x**2;
+    time.sleep(2)
+    
